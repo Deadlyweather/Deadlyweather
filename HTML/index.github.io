@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-    <nav><a class="host" href="sivu1.html">Tony Ruotsalainen</a> <a class="Orange" href="sivu2.html">Opinnot</a> <a class="Orange" href="sivu3.html">Harrastukset</a> <a class="Orange" href="sivu4.html">Työkokemus</a> <a class="Orange" href="sivu5.html">Työnäytteet</a></nav>
+    <nav><a class="host" href="sivu1.github.io">Tony Ruotsalainen</a> <a class="Orange" href="sivu2.github.io">Opinnot</a> <a class="Orange" href="sivu3.github.io">Harrastukset</a> <a class="Orange" href="sivu4.github.io">Työkokemus</a> <a class="Orange" href="sivu5.github.io">Työnäytteet</a></nav>
     </header>
 </body>
 </html>
