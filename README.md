@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deadlyweather
-- More about me -> [https://github.com/Deadlyweather/Deadlyweather/tree/main/HTML](https://github.com/Deadlyweather/Deadlyweather/blob/main/HTML/index.html)
+
 
 
 <!---
